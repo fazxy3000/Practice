@@ -1,0 +1,63 @@
+
+body{
+    background: peachpuff;
+    margin: 0;
+}
+
+
+header {
+        font-family: lobster;
+        background-color: maroon;
+        text-align: center;
+        color: darkgoldenrod;
+        margin-top: 0;
+        width: 100%;
+        border: 20px;
+        border-radius: 20px;
+
+}
+h1{
+        margin-top: 0;
+        padding: 80px;
+        font-family: lobster;
+        
+       
+}
+.bioHead{
+    font-family: Piedra;
+}
+
+.links{
+    text-align: center;
+    }
+.mySelf{    
+    font-size: large;
+    font-family: Metal Mania;
+    }
+div{
+    text-align: center;
+}
+
+
+
+.bioPic{
+    text-align: center;
+    border-radius: 30px;
+    width: 300px;
+    height: 350px;
+    }
+.bioPic2{
+    width: 500px;
+    height: 300px;
+}
+button{
+    background-color: maroon;
+    font-family: monospace;
+    font-size: large;
+    padding: 5px;
+    margin-top: 10px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+    
